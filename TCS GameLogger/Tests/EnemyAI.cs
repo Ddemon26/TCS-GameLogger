@@ -1,7 +1,6 @@
 using UnityEngine;
-using TCS.TestSystems.Logging;
 
-namespace TCS.TestSystems.ExampleSystems {
+namespace TCS.GameLogger.Tests {
     public class EnemyAI : MonoBehaviour {
         void Start() {
             GameLogger.LogWarning("EnemyAI initialized with potential issues.");

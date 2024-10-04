@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-namespace TCS.TestSystems.ExampleSystems {
+namespace TCS.GameLogger.Tests {
     public class LoggerManagerExample : MonoBehaviour {
         void Start() {
             // Enable logging for PlayerController

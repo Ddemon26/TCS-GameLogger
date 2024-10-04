@@ -1,7 +1,6 @@
-﻿using TCS.TestSystems.Logging;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace TCS.TestSystems.GlobalLogger {
+namespace TCS.GameLogger.Tests {
     public class ExampleLoggerUser : MonoBehaviour
     {
         void Start()

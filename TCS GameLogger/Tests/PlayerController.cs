@@ -1,6 +1,5 @@
-﻿using TCS.TestSystems.Logging;
-using UnityEngine;
-namespace TCS.TestSystems.ExampleSystems {
+﻿using UnityEngine;
+namespace TCS.GameLogger.Tests {
     public class PlayerController : MonoBehaviour {
         void Start() {
             GameLogger.Log("PlayerController initialized.");
