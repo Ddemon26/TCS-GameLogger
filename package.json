@@ -1,6 +1,6 @@
 {
   "name": "com.tcs.gamelogger",
-  "displayName": "Tent City Studio GameLogger",
+  "displayName": "TCS-GameLogger",
   "description": "A simple game logger for Unity",
   "version": "1.0.1",
   "keywords": [
@@ -9,7 +9,7 @@
     "unity",
     "simple"
   ],
-  "category": "TCS-PackageSystems",
+  "category": "Tent City Studio",
   "dependencies": {},
   "author": {
     "name": "Damon Fedorick",
