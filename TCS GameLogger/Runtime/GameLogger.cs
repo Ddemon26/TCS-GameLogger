@@ -219,7 +219,7 @@ namespace TCS.GameLogger {
                     Timestamp = DateTime.Now,
                     Type = type,
                     SystemName = "Unknown",
-                    Message = message
+                    Message = message,
                 }
             );
         }

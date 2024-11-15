@@ -38,7 +38,7 @@ namespace TCS.GameLogger {
                     Timestamp = DateTime.Now,
                     Type = LogType.Log,
                     SystemName = SystemType.Name,
-                    Message = message
+                    Message = message,
                 }
             );
         }
@@ -55,7 +55,7 @@ namespace TCS.GameLogger {
                     Timestamp = DateTime.Now,
                     Type = LogType.Warning,
                     SystemName = SystemType.Name,
-                    Message = message
+                    Message = message,
                 }
             );
         }
@@ -72,7 +72,7 @@ namespace TCS.GameLogger {
                     Timestamp = DateTime.Now,
                     Type = LogType.Error,
                     SystemName = SystemType.Name,
-                    Message = message
+                    Message = message,
                 }
             );
         }
